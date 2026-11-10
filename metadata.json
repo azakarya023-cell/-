@@ -1,0 +1,6 @@
+{
+  "name": "SawtLab - استوديو صناعة وتصميم الأصوات",
+  "description": "استوديو صوتي متكامل ومتقدم لتوليد وتصميم المؤثرات الصوتية، الإيقاعات، السنثسيزر، وتغيير الأصوات بالذكاء الاصطناعي مع تصدير WAV عالي الجودة.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
